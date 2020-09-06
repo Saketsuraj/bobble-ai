@@ -9,4 +9,7 @@ Run `npm install` on the root of the project to download node modules.
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
+# To check user signup
+Use email: eve.holt@reqres.in (Given in the API)
+
 
